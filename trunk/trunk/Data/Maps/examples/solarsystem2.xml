@@ -1,0 +1,25 @@
+<map width="20000" height="20000">
+<object id="0" x="10081" y="8644" radius="188" mass="600" type="star">
+<image style="stretched">/home/ben/Dev/pascal/shipgame/Data/Planets/planet1.bmp</image>
+<orbit object="1" eccentricity="0.2" direction="anticlockwise"/>
+</object>
+<object id="1" x="11804" y="8292" radius="358" mass="1000" type="star">
+<image style="stretched">/home/ben/Dev/pascal/shipgame/Data/Planets/planet1.bmp</image>
+<orbit object="0" eccentricity="0.2" direction="anticlockwise"/>
+</object>
+<object id="2" x="15872" y="2080" radius="200" mass="0" type="space station">
+<image style="stretched">/home/ben/Dev/pascal/shipgame/Data/Planets/planet1.bmp</image>
+<orbit object="1" eccentricity="0" direction="anticlockwise"/>
+</object>
+<object id="3" x="6912" y="12704" radius="200" mass="0" type="space station">
+<image style="stretched">/home/ben/Dev/pascal/shipgame/Data/Planets/planet1.bmp</image>
+<orbit object="1" eccentricity="0" direction="anticlockwise"/>
+</object>
+<object id="4" x="1536" y="18432" radius="400" mass="200" type="star">
+<image style="stretched">/home/ben/Dev/pascal/shipgame/Data/Planets/planet1.bmp</image>
+</object>
+<object id="5" x="4000" y="19040" radius="50" mass="100" type="planet">
+<image style="stretched">/home/ben/Dev/pascal/shipgame/Data/Planets/planet1.bmp</image>
+<orbit object="4" eccentricity="0.6" direction="clockwise"/>
+</object>
+</map>
