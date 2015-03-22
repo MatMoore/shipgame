@@ -1,0 +1,5 @@
+*.o
+*.ppu
+*.sw[op]
+shipgame.log
+main

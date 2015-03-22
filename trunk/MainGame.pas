@@ -155,6 +155,7 @@ var
    msg : NetworkMessage;
 begin
     if checkkeys() = Gamestate_Quit then begin
+        dolog('Returning player to Earth.');
         result := Gamestate_Quit;
         exit;
     end;
